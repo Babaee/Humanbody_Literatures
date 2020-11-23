@@ -17,6 +17,10 @@
 [PoseNet3D Unsupervised 3D Human Shape and Pose Estimation](https://arxiv.org/pdf/2003.03473.pdf) -Tripathi, Shashank, et al. "PoseNet3D: Unsupervised 3D Human Shape and Pose Estimation." arXiv preprint arXiv:2003.03473 (2020).
 
 ## Pose Estimation
+
+[Learnable Triangulation of Human Pose](https://openaccess.thecvf.com/content_ICCV_2019/papers/Iskakov_Learnable_Triangulation_of_Human_Pose_ICCV_2019_paper.pdf) -Karim Iskakov, Egor Burkov, Victor Lempitsky, Yury Malkov; Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2019, pp. 7718-7727 
+
+
 [Cross View Fusion for 3D Human Pose Estimation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Qiu_Cross_View_Fusion_for_3D_Human_Pose_Estimation_ICCV_2019_paper.pdf) -Qiu, Haibo, et al. "Cross view fusion for 3d human pose estimation." Proceedings of the IEEE International Conference on Computer Vision. 2019.
 
 [Multi-view Pictorial Structures for 3D Human Pose Estimation](https://d1wqtxts1xzle7.cloudfront.net/35794029/MVPS_BMVC_2013.pdf?1417440467=&response-content-disposition=inline%3B+filename%3DMulti_view_Pictorial_Structures_for_3D_H.pdf&Expires=1603472290&Signature=g4Ri4frjcPLYzsWccpcvRTSnZ6Nw4YzuTES59nWnyRG2l53Sqs3x7AyQHzZhsa5DKbq5eTRReqiwwoDrJesnh8se0JGq58zjdacbgfrtR~OUefL4~YLmnpysLe80coJe3vjSXsfNoGE~HTLADekkFfNhhm~F8PCUUPKfquGj~iKWvo1TeCrwUOa7dcZKfP-4mzdUq5jL~7WAoIyna8bWUM1sz382EQM0RkwR5g2bVw1v5dLE0Pigj7ktHrlC~CJ96xmTQUPjpnNx2KMDXcK5F-in~-BDp1YrHvak7HJ1Fn0DktqIfLK6Esb9qjrahYsrk8kPc0C2VJjhyT2fqVfFOA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) -Amin, Sikandar, et al. "Multi-view pictorial structures for 3d human pose estimation." Bmvc. Vol. 1. No. 2. 2013.
